@@ -27,7 +27,7 @@ I'm a backend developer currently focusing on python that loves to write technic
 
 <!-- BLOG-POST-LIST:END -->
 
-<b> 🤝To connect with me</b>
+<b><a href="mailto:xx.bryan.xx@msn.com?Subject=hello%20mr%20bryr0">📧To connect with me</a></b>
 <p align = "center">
 
 [<img src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white&color=black" />](https://es.stackoverflow.com/users/61388/bryro)
