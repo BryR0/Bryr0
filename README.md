@@ -4,7 +4,7 @@
 **bryr0/Bryr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi 👋, I'm Bryro
+### Hi 👋, I'm BryRo
 
 I'm a backend developer currently focusing on python that loves to write technical articles and contributing to open source.
 
